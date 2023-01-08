@@ -3,6 +3,9 @@ Rock Paper Scissors with various modes including the famous Rock Paper Scissors 
 <p align="center">
   <img width="522" src="https://github.com/Cr4zySh4rk/RockPaperScissorsLizardSpock/blob/main/screenshot1.png">
 </p>
+<p align="center">
+  <img width="522" src="https://github.com/Cr4zySh4rk/RockPaperScissorsLizardSpock/blob/main/screenshot2.png">
+</p>
 ## Installation Instructions (On Ubuntu/Debian): 
 Install python:
   ``` bash
