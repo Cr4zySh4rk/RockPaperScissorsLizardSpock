@@ -84,7 +84,6 @@ def game():
         player=int(input("\nEnter choice : "))
         if (player>3 or player<1):
             print("Invalid choice!")
-            quit()
         else:
             print("\nYou chose : ")
             print(options[player])
@@ -129,7 +128,6 @@ def game():
         player=int(input("\nEnter choice : "))
         if (player>5 or player<1):
             print("Invalid choice!")
-            quit()
         else:
             print("\nYou chose : ")
             print(options[player])
@@ -166,7 +164,6 @@ def game():
         player=int(input("\nEnter choice : "))
         if (player>3 or player<1):
             print("Invalid choice!")
-            quit()
         else:
             print("\nYou chose : ")
             print(options[player])
@@ -203,7 +200,6 @@ def game():
         player=int(input("\nEnter choice : "))
         if (player>3 or player<1):
             print("Invalid choice!")
-            quit()
         else:
             print("\nYou chose : ")
             print(options[player])
