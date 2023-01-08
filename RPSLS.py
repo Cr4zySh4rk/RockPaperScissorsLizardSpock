@@ -196,7 +196,7 @@ def game():
 ▀█▀ █ █▀▀ █▀▀ █▀█
 ░█░ █ █▄█ ██▄ █▀▄'''
         options=[0,a,b,c]
-        print("\n<<<<<Your Move>>>>>")
+        print("\n<<<<< Your Move >>>>>")
         print("\n[1] Lady")
         print("[2] Hunter")
         print("[3] Tiger")
@@ -228,7 +228,8 @@ def game():
 cscore=0
 pscore=0   
 while(True):
-    print("SCORE : \nCPU : {} | YOU : {}".format(cscore,pscore))
+    print("########## [SCORE] ##########")
+    print("\nCPU : {} | YOU : {}".format(cscore,pscore))
     choice=input('\nPlay? (Y/n) : ')
     if (choice=='Y'or choice=='y' or choice==''):
         result=game()
