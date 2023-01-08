@@ -86,11 +86,12 @@ def game():
             print("Invalid choice!")
             quit()
         else:
-            print("You chose : ")
+            print("\nYou chose : ")
             print(options[player])
-            thinking("\nCPU is thinking ...")
+            print("\n")
+            thinking("CPU is thinking ...")
             cpu=random.randint(1,3)
-            print("CPU chose : ")
+            print("\nCPU chose : ")
             print(options[cpu])
             if (player==cpu):
                 print('\nDRAW')
@@ -130,11 +131,12 @@ def game():
             print("Invalid choice!")
             quit()
         else:
-            print("You chose : ")
+            print("\nYou chose : ")
             print(options[player])
-            thinking("\nCPU is thinking ...")
+            print("\n")
+            thinking("CPU is thinking ...")
             cpu=random.randint(1,5)
-            print("CPU chose : ")
+            print("\nCPU chose : ")
             print(options[cpu])
             if (player==cpu):
                 print('\nDRAW')
@@ -166,11 +168,12 @@ def game():
             print("Invalid choice!")
             quit()
         else:
-            print("You chose : ")
+            print("\nYou chose : ")
             print(options[player])
-            thinking("\nCPU is thinking ...")
+            print("\n")
+            thinking("CPU is thinking ...")
             cpu=random.randint(1,3)
-            print("CPU chose : ")
+            print("\nCPU chose : ")
             print(options[cpu])
             if (player==cpu):
                 print('\nDRAW')
@@ -202,11 +205,12 @@ def game():
             print("Invalid choice!")
             quit()
         else:
-            print("You chose : ")
+            print("\nYou chose : ")
             print(options[player])
-            thinking("\nCPU is thinking ...")
+            print("\n")
+            thinking("CPU is thinking ...")
             cpu=random.randint(1,3)
-            print("CPU chose : ")
+            print("\nCPU chose : ")
             print(options[cpu])
             if (player==cpu):
                 print('\nDRAW')
