@@ -7,7 +7,7 @@ Install python:
   ```
 Install git:
   ``` bash
-  sudo apt-get install python3 -y
+  sudo apt-get install git -y
   ```
 Clone RockPaperLizardSpock:
   ``` bash
