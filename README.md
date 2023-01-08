@@ -32,5 +32,5 @@ run the python file RPSLS:
 ### That's it, enjoy!
 
 <p align="center">
-  <img width="480" src="https://github.com/Cr4zySh4rk/RockPaperScissorsLizardSpock/blob/main/RPSLS.gif">
+  Demo: <img width="480" src="https://github.com/Cr4zySh4rk/RockPaperScissorsLizardSpock/blob/main/RPSLS.gif">
 </p>
